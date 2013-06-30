@@ -10,4 +10,4 @@ def run_benchmark(n)
 	end
 end
 
-run_benchmark(10)
+run_benchmark(40)
